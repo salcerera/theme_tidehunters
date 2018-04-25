@@ -1,2 +1,2 @@
 # tidehunters
-Bootstrap Theme for a surfing website landing page
+Just a basic Bootstrap Theme for a surfing website landing page
